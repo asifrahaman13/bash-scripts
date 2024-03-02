@@ -1,0 +1,8 @@
+sending incremental file list
+txt/
+txt/chemistry.txt
+txt/physics.txt
+
+sent 250 bytes  received 58 bytes  616.00 bytes/sec
+total size is 30  speedup is 0.10
+Backup successful at Sat Mar  2 12:20:55 IST 2024

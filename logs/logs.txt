@@ -1,0 +1,18 @@
+sending incremental file list
+txt/
+txt/chemistry.txt
+txt/txt/
+txt/txt/chemistry.txt
+txt/txt/physics.txt
+
+sent 598 bytes  received 89 bytes  1,374.00 bytes/sec
+total size is 241  speedup is 0.35
+Backup successful at Sat Mar  2 12:22:06 IST 2024
+sending incremental file list
+txt/
+txt/chemistry.txt
+txt/physics.txt
+
+sent 421 bytes  received 58 bytes  958.00 bytes/sec
+total size is 206  speedup is 0.43
+Backup successful at Sat Mar  2 12:22:53 IST 2024
